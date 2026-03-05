@@ -1,4 +1,4 @@
-# Portfolio
+# Takuya Uehara – Human Interface / Prototyping Portfolio
 
 工学院大学大学院 機械工学専攻 M1 の上原 拓也です。  
 AI・センシング・UIを用いた試作開発（非接触UIなど）に関心があります。
