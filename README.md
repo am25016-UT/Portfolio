@@ -100,36 +100,92 @@ iPhoneのカメラ映像から人体の特徴点を取得し、
 
 ---
 
-## 2. 非接触UIコンセプト（Gesture + Voice）
+## 2. 非接触UI（ハンドジェスチャー × 音声認識）— 製造現場の作業効率改善提案
 
 ### 概要（1〜2行）
-カメラによるジェスチャー認識と音声入力を組み合わせ、画面に触れずに操作できるUIを検討しました（プロトタイプ／コンセプト）。
+ハンドジェスチャーと音声認識を用いて、**手袋を脱着せずに図面・3Dモデル・マニュアル確認を可能にする非接触操作UI**を提案しました。:contentReference[oaicite:0]{index=0}  
+製造現場における“中断作業”を減らし、稼働率・生産性・安全性の改善を狙います。:contentReference[oaicite:1]{index=1}
 
-### 背景（課題）
-手袋着用・汚染リスク環境（研究室／製造現場など）では、スマートフォンやタッチパネル操作が難しい場面があります。
+---
 
-### 取り組み（どう解いたか）
-（後で記入）
+### 背景（Why now）
+近年、ものづくり工房の新設・拡大や、1人で複数装置を見る現場の増加が進んでいます。:contentReference[oaicite:2]{index=2}  
+加えて技能工の高齢化により、製造業の技術者が10年で大きく減少する懸念が示されています。:contentReference[oaicite:3]{index=3}
 
-### 使用技術
-- Camera sensing（カメラ入力）
-- Gesture Recognition（ジェスチャー）
-- Voice（音声）
-- Human Interface Design（操作設計）
+---
 
-### 想定ユースケース
-- 車内UI（非接触操作）
-- スマートデバイス操作
-- 研究室／医療／製造現場の操作
+### 顧客（Who）
+- 1人で複数の工作機械を取り扱う「ものづくり工房（FabLab）」:contentReference[oaicite:4]{index=4}  
+- 企業・大学の試作製作部門:contentReference[oaicite:5]{index=5}  
+- 小ロット品を作るものづくり系の中小企業:contentReference[oaicite:6]{index=6}  
+
+---
+
+### 課題（Pain）
+複数装置を動かし、都度作るものが違う現場では、図面やマニュアル確認のために**手袋を何度も着脱**し、工程が止まります。:contentReference[oaicite:7]{index=7}  
+担い手不足の影響でその頻度は増加傾向であり、教育コストや安全作業のリスクも増えます。:contentReference[oaicite:8]{index=8}
+
+---
+
+### 提案するソリューション（Solution）
+安全かつ品質の良い機械加工を行うために、**手袋を脱着せずに図面・3Dモデル・マニュアルをチェック可能な非接触操作UI**を提案します。:contentReference[oaicite:9]{index=9}  
+手袋の着脱なくシームレスに確認できることで、高効率な生産と、将来的な人員不足への対応・安全衛生管理にも貢献します。:contentReference[oaicite:10]{index=10}
+
+---
+
+### 技術コンセプト（Technology）
+学部時代に開発した**スマホ向け姿勢推定アプリ**のコア技術を、一般のカメラ運用に展開する想定です。:contentReference[oaicite:11]{index=11}  
+調査の中でスマホ完結型では特許抵触リスクが高いことが判明したため、**製造現場×コア技術**へ再定義（ピボット）しました。:contentReference[oaicite:12]{index=12}
+
+#### システム構成（案）
+Camera
+↓
+Gesture recognition（手のジェスチャー）
+＋ Voice recognition（音声）
+↓
+図面/3D/マニュアル閲覧UI（非接触操作）
+
+---
+
+### 市場性（概算）
+拠点数をベースに、TAM/SAM/SOMを概算しました。:contentReference[oaicite:13]{index=13}  
+- TAM：177,832拠点（約1,066億円/年）:contentReference[oaicite:14]{index=14}  
+- SAM：43,243拠点（約259.5億円/年）:contentReference[oaicite:15]{index=15}  
+- SOM：25,027拠点（約150億円/年）:contentReference[oaicite:16]{index=16}  
+※前提：1人あたり月に数時間のロス、月5万円（年60万円）として仮定。今後検証予定。:contentReference[oaicite:17]{index=17}  
+
+---
+
+### 検証結果と課題（Validation）
+複数の工作機械を持つ現場での検証により、複数の図面・マニュアル確認で**中断作業が多い**ことが判明しました。:contentReference[oaicite:18]{index=18}  
+
+**課題（事業）**：作業者自身が中断作業を意識していないため、費用を払って解決してもらう販売戦略が重要。:contentReference[oaicite:19]{index=19}  
+**課題（技術）**：スマホ→カメラ化に伴う要件定義とUI開発、MVP定義が必要。:contentReference[oaicite:20]{index=20}  
+
+---
+
+### 今後の進め方（マイルストーン案）
+- ものづくり企業ヒアリング → MVP要件定義 → PoC検証:contentReference[oaicite:21]{index=21}  
+- スマホ→カメラ向けジェスチャー認識技術開発、画面出力ロジック構築、PoC用簡易プロトタイプ作成:contentReference[oaicite:22]{index=22}  
+- 将来：建設・医療など別領域探索、海外市場調査、量産向けプロト開発:contentReference[oaicite:23]{index=23}  
+
+---
+
+### 導入効果（想定）
+- 電力コスト削減：一括制御・稼働最適により20〜40%削減可能性（月2,000〜4,000円節約の試算）:contentReference[oaicite:24]{index=24}  
+- 時間短縮：中断作業（手袋脱着・マニュアル確認・機械切替）の削減、AR UIによりタスク完了時間が21〜24%減少の参考値:contentReference[oaicite:25]{index=25}  
+- 運用コスト削減：消耗品・部品摩耗・教育/やり直し工数の削減:contentReference[oaicite:26]{index=26}  
+
+---
+
+### 技術優位性・オリジナリティ
+- 姿勢推定アプリの開発経験を活かし、実装可能な開発力を有していること:contentReference[oaicite:27]{index=27}  
+- スマホで作成していたプロトタイプを活用でき、スピーディーな開発が可能であること:contentReference[oaicite:28]{index=28}  
+
+---
 
 ### デモ
 - 動画URL：（後で貼る）
-
-### 成果（できたこと）
-（後で記入）
-
-### 今後
-（後で記入）
 
 ---
 
