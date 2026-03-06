@@ -103,7 +103,7 @@ iPhoneのカメラ映像から人体の特徴点を取得し、**身体各部位
 - 角度許容範囲の違いによる成功率を実験で評価した
 
 ### デモ
-- YouTube：（URLを貼る）
+- YouTube：(https://www.youtube.com/playlist?list=PL-MSjedliSbkP-9T6Sqf4CnGVGlLqFf_E)
 
 ### 今後の展望
 - 姿勢の向きの判別（首・ひねり動作）
