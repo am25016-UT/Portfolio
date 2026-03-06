@@ -13,7 +13,7 @@
 |---|---|
 | **AI Pose Recognition App** | iPhoneカメラを用いたリアルタイム姿勢判定アプリ |
 | **Non-Contact UI** | ジェスチャー＋音声による製造現場向けUI |
-| **PDMS Stencil Fabrication** | 細胞遊走研究用ステンシル製作プロセス |
+| **PDMS Stencil Fabrication** | 細胞遊走研究用ステンシル製作プロセスの開発 |
 
 ---
 
