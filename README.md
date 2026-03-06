@@ -46,18 +46,12 @@
 
 ---
 
-# Demo
-
-### AI Pose Recognition
-
-![AIポーズ](images/AIポーズ判定アプリ.png)
-
----
-
 
 ## 1. AIポーズ認識アプリ（iOS / Swift）
 
-![AIポーズアプリ](images/AIポーズ判定アプリ.png)
+<p align="center">
+ <img src="images/AIポーズ判定アプリ.png" width="120"> 　 <img src="images/VisonAI.png" width="200"> 　 <img src="images/VisionAI_logic.png" width="200"> 
+</p>
 
 ### 概要
 スマートフォンのカメラ映像から人体の姿勢情報（特徴点）を取得し、特定のポーズを自動判定するiOSアプリのプロトタイプを開発した。  
