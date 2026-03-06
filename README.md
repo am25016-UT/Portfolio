@@ -136,7 +136,7 @@ iPhoneのカメラ映像から人体の特徴点を取得し、**身体各部位
 - 小ロット品を扱うものづくり系中小企業
 
 <p align="center">
- <img src="images/AIポーズ判定アプリ.png" width="120"> 　 <img src="images/VisonAI.png" width="200"> 　 <img src="images/VisionAI_logic.png" width="200"> 
+ <img src="images/S_48062468.png" width="120"> 　 <img src="images/S_48062470" width="200"> 　 <img src="images/S_48062471.png" width="200"> 
 </p>
 
 ### 課題（Pain）
