@@ -134,11 +134,8 @@ iPhoneのカメラ映像から人体の特徴点を取得し、**身体各部位
 - ものづくり工房（FabLab）
 - 企業・大学の試作製作部門
 - 小ロット品を扱うものづくり系中小企業
-  
 <p align="center">
-<img src="images/S_48062468_0.jpg" width="250">
-<img src="images/S_48062470_0.jpg" width="250">
-<img src="images/S_48062471_0.jpg" width="250">
+ <img src="images/S__48062468_0.jpg" width="200"> 　 <img src="images/S__48062470_0.jpg" width="220"> 　 <img src="images/S__48062471_0.jpg" width="200"> 
 </p>
 
 ### 課題（Pain）
