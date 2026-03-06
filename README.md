@@ -22,7 +22,7 @@
 | | | |
 |---|---|---|
 | [AI Pose Recognition](#1-aiポーズ認識アプリios--swift) | [Non-contact UI](#2-非接触uiハンドジェスチャー--音声認識) | [PDMS Stencil Research](#3-貫通穴アレイ構造を有するシリコーンゴム製ステンシル製作プロセスの開発修論) |
-| ![](images/AIポーズ判定アプリ.png) | ![](images/noncontact_ui.png) | ![](images/pdms.png) |
+| ![](images/AIポーズ判定アプリ.png) | ![](images/IMG_1575.png) | ![](images/pdms.png) |
 
 ---
 
