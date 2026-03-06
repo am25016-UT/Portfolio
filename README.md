@@ -135,6 +135,10 @@ iPhoneのカメラ映像から人体の特徴点を取得し、**身体各部位
 - 企業・大学の試作製作部門
 - 小ロット品を扱うものづくり系中小企業
 
+<p align="center">
+ <img src="images/AIポーズ判定アプリ.png" width="120"> 　 <img src="images/VisonAI.png" width="200"> 　 <img src="images/VisionAI_logic.png" width="200"> 
+</p>
+
 ### 課題（Pain）
 複数装置を動かしながら異なる作業を行う現場では、図面やマニュアル確認のたびに手袋を着脱する必要があり、工程が止まる。  その結果、作業効率だけでなく教育コストや安全作業の面でも負担が生じる。
 
