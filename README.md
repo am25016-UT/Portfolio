@@ -3,48 +3,107 @@
 工学院大学大学院 機械工学専攻 修士1年の上原拓也です。  
 AI・センシング技術を用いたHuman Interfaceの試作開発やプロトタイピングに関心があります。
 
-特に、カメラ・センサーとAI認識を組み合わせた「直感的な操作体験」の実現をテーマに開発を行っています。
+---
+
+# Projects
+
+## 1. AI Pose Recognition App（Bachelor Thesis）
+
+### Background
+（後で書く）
+
+### Approach
+（後で書く）
+
+### Technologies
+- AI pose detection
+- Computer vision
+- Mobile application
+
+### Result
+（後で書く）
+
+### Future
+（後で書く）
 
 ---
 
-## Featured Project
+## 2. Non-contact UI Concept（Startup Program）
 
-### Non-contact UI Prototype（Gesture + Voice）
+### Background
+（後で書く）
 
-手袋着用環境や非接触操作が必要な環境でも操作可能なUIを検討したプロトタイプです。
+### Approach
+（後で書く）
 
-#### Background
-研究室や製造現場などでは手袋を着用するため、スマートフォンやタッチパネルの操作が難しい場面があります。
+### Technologies
+- Gesture recognition
+- Camera sensing
+- Human interface design
 
-#### Concept
-カメラによるジェスチャー認識と音声入力を組み合わせ、  
-画面に触れずに操作できるユーザーインターフェースを検討しました。
+### Demo
+（動画URL）
 
-#### Technologies
-- Camera based gesture recognition  
-- AI pose detection  
-- Human interface design  
-- Rapid prototyping
+### Result
+（後で書く）
 
-#### Potential Applications
-- In-car user interface  
-- Smart device control  
-- Manufacturing environments  
-- Laboratories
-
-#### Demo
-（動画URLを後で貼る）
+### Future
+（後で書く）
 
 ---
 
-## Interests
-- Human Interface  
-- Sensing / Computer Vision  
-- Prototyping  
-- UX design  
+## 3. PDMS Stencil Fabrication Process（Master Thesis）
+
+### Background
+（後で書く）
+
+### Approach
+（後で書く）
+
+### Technologies
+- PDMS
+- Microfabrication
+- Cell culture device fabrication
+
+### Result
+（後で書く）
+
+### Future
+（後で書く）
 
 ---
 
-## Author
+## 4. Automotive Club Engineering Improvement
+
+### Background
+（後で書く）
+
+### Approach
+（後で書く）
+
+### Technologies
+- Mechanical engineering
+- Vehicle maintenance
+- Engineering improvement
+
+### Result
+（後で書く）
+
+### Future
+（後で書く）
+
+---
+
+# Interests
+
+- Human Interface
+- Sensing / Computer Vision
+- Prototyping
+- UX Design
+
+---
+
+# Author
+
 Takuya Uehara  
 Master's student, Mechanical Engineering
