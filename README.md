@@ -29,7 +29,6 @@
 
 ### Programming
 - Swift
-- Python
 
 ### Computer Vision
 - Pose Estimation
