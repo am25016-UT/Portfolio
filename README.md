@@ -1,4 +1,4 @@
-# 上原 拓也 – Human Interface / Prototyping
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8c8c72a5-1d1e-4884-a532-8c7842cc0308" /># 上原 拓也 – Human Interface / Prototyping
 
 工学院大学大学院 機械工学専攻 修士1年  
 
@@ -120,7 +120,7 @@ iPhoneのカメラ映像から人体の特徴点を取得し、**身体各部位
 ## 2. 非接触UI（ハンドジェスチャー × 音声認識）
 
 <p align="center">
- <img src="images/AIポーズ判定アプリ.png" width="120"> 　 <img src="images/VisonAI.png" width="200"> 　 <img src="images/VisionAI_logic.png" width="200"> 
+ <img src="images/非接触UI_トプ画.png" width="120"> 
 </p>
 
 ### 概要
