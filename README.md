@@ -1,152 +1,156 @@
-# Takuya Uehara – Human Interface / Prototyping Portfolio
+# 上原 拓也 – Human Interface / Prototyping ポートフォリオ
 
-Master's student in Mechanical Engineering (Kogakuin University).  
-Interested in sensing, human interface, and rapid prototyping.
+工学院大学大学院 工学研究科 機械工学専攻 修士1年。  
+センシング × AI認識 × ヒューマンインターフェース（非接触UIなど）の**試作開発・プロトタイピング**に関心があります。
 
 ---
 
-## Projects (Click to jump)
+## プロジェクト一覧（クリックで詳細へ）
 
-| Project | Preview |
+| プロジェクト | 概要画像（クリックで詳細へ） |
 |---|---|
-| [1. AI Pose Recognition App (iOS/Swift)](#1-ai-pose-recognition-app-iosswift) | [![AI Pose App](images/pose_app.png)](#1-ai-pose-recognition-app-iosswift) |
-| [2. Non-contact UI Concept (Gesture + Voice)](#2-non-contact-ui-concept-gesture--voice) | [![Non-contact UI](images/noncontact_ui.png)](#2-non-contact-ui-concept-gesture--voice) |
-| [3. PDMS Stencil Fabrication Process (Master Thesis)](#3-pdms-stencil-fabrication-process-master-thesis) | [![PDMS](images/pdms.png)](#3-pdms-stencil-fabrication-process-master-thesis) |
-| [4. Automotive Club Engineering Improvement](#4-automotive-club-engineering-improvement) | [![Automotive](images/automotive.png)](#4-automotive-club-engineering-improvement) |
-| [5. Prototyping / 3D Printing (Maker Projects)](#5-prototyping--3d-printing-maker-projects) | [![3D Printing](images/3d_printing.png)](#5-prototyping--3d-printing-maker-projects) |
+| [1. AIポーズ認識アプリ（iOS / Swift）](#1-aiポーズ認識アプリios--swift) | [![AI Pose App](images/pose_app.png)](#1-aiポーズ認識アプリios--swift) |
+| [2. 非接触UIコンセプト（Gesture + Voice）](#2-非接触uiコンセプトgesture--voice) | [![Non-contact UI](images/noncontact_ui.png)](#2-非接触uiコンセプトgesture--voice) |
+| [3. PDMSステンシル製作プロセス開発（修論）](#3-pdmsステンシル製作プロセス開発修論) | [![PDMS](images/pdms.png)](#3-pdmsステンシル製作プロセス開発修論) |
+| [4. 自動車部での改善（整備・改善）](#4-自動車部での改善整備改善) | [![Automotive](images/automotive.png)](#4-自動車部での改善整備改善) |
+| [5. 3Dプリンタ／ものづくり（試作・治具など）](#5-3dプリンタものづくり試作治具など) | [![3D Printing](images/3d_printing.png)](#5-3dプリンタものづくり試作治具など) |
 
-> ✅ 画像ファイルは後で置けばOKです（例：`images/pose_app.png`）。  
-> まずはこのままコミットして“形”を完成させましょう。
+> ※ 画像は後で差し替えでOKです（例：`images/pose_app.png`）。  
+> まずはこのフォーマットをコミットして「見せられる形」を完成させましょう。
 
 ---
 
-# Project Details
+# 各プロジェクト詳細
 
-## 1. AI Pose Recognition App (iOS/Swift)
+## 1. AIポーズ認識アプリ（iOS / Swift）
 
-### Summary
-A prototype iOS application that detects human poses from the smartphone camera and classifies simple motions.
+### 概要（1〜2行）
+スマートフォンのカメラ映像から姿勢情報を取得し、簡単な動作判定を行うiOSアプリのプロトタイプを開発しました。
 
-### Background
-(Write later)
+### 背景（課題）
+（後で記入）
 
-### Approach
-(Write later)
+### 取り組み（どう解いたか）
+（後で記入）
 
-### Technologies
+### 使用技術
 - Swift
-- iOS Camera
-- Pose detection (concept)
+- iOS（カメラ取得）
+- Pose Detection（姿勢推定）
 
-### Result
-(Write later)
+### 成果（できたこと）
+（後で記入）
 
-### Demo
-(Add video URL)
+### デモ
+- 動画URL：（後で貼る）
 
-### Future
-(Write later)
-
----
-
-## 2. Non-contact UI Concept (Gesture + Voice)
-
-### Summary
-A concept prototype for non-contact interaction combining gesture recognition and voice commands.
-
-### Background
-(Write later)
-
-### Approach
-(Write later)
-
-### Technologies
-- Camera-based gesture recognition
-- AI pose detection (concept)
-- Human interface design
-- Rapid prototyping
-
-### Potential Applications
-- In-car user interface
-- Smart device control
-- Manufacturing environments
-- Laboratories
-
-### Demo
-(Add video URL)
-
-### Result
-(Write later)
-
-### Future
-(Write later)
+### 今後
+（後で記入）
 
 ---
 
-## 3. PDMS Stencil Fabrication Process (Master Thesis)
+## 2. 非接触UIコンセプト（Gesture + Voice）
 
-### Summary
-Development of a fabrication process for PDMS stencils to improve reproducibility and throughput.
+### 概要（1〜2行）
+カメラによるジェスチャー認識と音声入力を組み合わせ、画面に触れずに操作できるUIを検討しました（プロトタイプ／コンセプト）。
 
-### Background
-(Write later)
+### 背景（課題）
+手袋着用・汚染リスク環境（研究室／製造現場など）では、スマートフォンやタッチパネル操作が難しい場面があります。
 
-### Approach
-(Write later)
+### 取り組み（どう解いたか）
+（後で記入）
 
-### Technologies
+### 使用技術
+- Camera sensing（カメラ入力）
+- Gesture Recognition（ジェスチャー）
+- Voice（音声）
+- Human Interface Design（操作設計）
+
+### 想定ユースケース
+- 車内UI（非接触操作）
+- スマートデバイス操作
+- 研究室／医療／製造現場の操作
+
+### デモ
+- 動画URL：（後で貼る）
+
+### 成果（できたこと）
+（後で記入）
+
+### 今後
+（後で記入）
+
+---
+
+## 3. PDMSステンシル製作プロセス開発（修論）
+
+### 概要（1〜2行）
+PDMSステンシルの製作プロセスを開発し、再現性・作業性（スループット）の改善を目指しています。
+
+### 背景（課題）
+（後で記入）
+
+### 取り組み（どう解いたか）
+（後で記入）
+
+### 使用技術
 - PDMS
-- Microfabrication / process development
-- Experimental design / reproducibility
+- Microfabrication（微細加工）
+- Process Development（工程設計）
+- 再現性向上・条件最適化
 
-### Result
-(Write later)
+### 成果（できたこと）
+（後で記入）
 
-### Future
-(Write later)
-
----
-
-## 4. Automotive Club Engineering Improvement
-
-### Summary
-Engineering improvements in an automotive club environment through observation and iteration.
-
-### Background
-(Write later)
-
-### Approach
-(Write later)
-
-### Technologies
-- Mechanical engineering
-- Maintenance / improvement
-- Problem finding & iteration
-
-### Result
-(Write later)
-
-### Future
-(Write later)
+### 今後
+（後で記入）
 
 ---
 
-## 5. Prototyping / 3D Printing (Maker Projects)
+## 4. 自動車部での改善（整備・改善）
 
-### Summary
-Rapid prototyping using 3D printing and mechanical design for quick iteration.
+### 概要（1〜2行）
+自動車部の活動の中で、整備・改善の観察→仮説→実行→検証を回し、改善を行いました。
 
-### Examples
-- (Write later)
-- (Write later)
+### 背景（課題）
+（後で記入）
 
-### Tools / Skills
-- 3D printing (Bambu Lab)
-- CAD / modeling
-- Rapid iteration
+### 取り組み（どう解いたか）
+（後で記入）
+
+### 使用スキル
+- 機械工学の基礎
+- 整備・分解・組立
+- 既存状態の把握（現状分析）と改善
+
+### 成果（できたこと）
+（後で記入）
+
+### 今後
+（後で記入）
 
 ---
 
+## 5. 3Dプリンタ／ものづくり（試作・治具など）
+
+### 概要（1〜2行）
+3Dプリンタを用いた試作・治具制作など、短いサイクルで形にして改善するものづくりを行っています。
+
+### 代表例（箇条書きでOK）
+- （後で記入）
+- （後で記入）
+- （後で記入）
+
+### 使用スキル／ツール
+- 3D printing（Bambu Lab）
+- CAD / モデリング
+- 試作→改善の反復
+
+---
+
+## リンク
+- GitHub：このリポジトリ
+- 連絡先：（任意）
 ## Links
 - GitHub: This repository
 - Contact: (Optional)
