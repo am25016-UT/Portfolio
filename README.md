@@ -1,24 +1,61 @@
-# 上原 拓也 – Human Interface / Prototyping ポートフォリオ
+# 上原 拓也 – Human Interface / Prototyping
 
-工学院大学大学院 工学研究科 機械工学専攻 修士1年。  
-センシング × AI認識 × ヒューマンインターフェースの試作開発・プロトタイピングに関心がある。
+工学院大学大学院 機械工学専攻 修士1年  
+
+**センシング × AI認識 × ヒューマンインターフェース**を軸に  
+非接触UI・AI認識・試作プロトタイピングの開発を行っている。
 
 ---
 
-## プロジェクト一覧（クリックで詳細へ）
+# Projects
 
-| プロジェクト | 概要画像（クリックで詳細へ） |
+| Project | Overview |
 |---|---|
-| [1. AIポーズ認識アプリ（iOS / Swift）](#1-aiポーズ認識アプリios--swift) | [![AI Pose App](images/pose_app.png)](#1-aiポーズ認識アプリios--swift) |
-| [2. 非接触UI（ハンドジェスチャー × 音声認識）](#2-非接触uiハンドジェスチャー--音声認識) | [![Non-contact UI](images/noncontact_ui.png)](#2-非接触uiハンドジェスチャー--音声認識) |
-| [3. 貫通穴アレイ構造を有するシリコーンゴム製ステンシル製作プロセスの開発（修論）](#3-貫通穴アレイ構造を有するシリコーンゴム製ステンシル製作プロセスの開発修論) | [![PDMS](images/pdms.png)](#3-貫通穴アレイ構造を有するシリコーンゴム製ステンシル製作プロセスの開発修論) |
-
-> ※ 画像は後で差し替えでよい。まずはこの形でコミットし、見せられる状態を先に作る。
+| **AI Pose Recognition App** | iPhoneカメラを用いたリアルタイム姿勢判定アプリ |
+| **Non-Contact UI** | ジェスチャー＋音声による製造現場向けUI |
+| **PDMS Stencil Fabrication** | 細胞遊走研究用ステンシル製作プロセス |
 
 ---
 
-<br>
-<br>
+# Project Gallery
+
+| | | |
+|---|---|---|
+| [AI Pose Recognition](#1-aiポーズ認識アプリios--swift) | [Non-contact UI](#2-非接触uiハンドジェスチャー--音声認識) | [PDMS Stencil Research](#3-貫通穴アレイ構造を有するシリコーンゴム製ステンシル製作プロセスの開発修論) |
+| ![](images/AIポーズ判定アプリ.png) | ![](images/noncontact_ui.png) | ![](images/pdms.png) |
+
+---
+
+# Technical Skills
+
+### Programming
+- Swift
+- Python
+
+### Computer Vision
+- Pose Estimation
+- Gesture Recognition
+
+### Prototyping
+- iOS App Development
+- UI Concept Design
+- Hardware / Fabrication
+
+### Research
+- Microfluidics
+- PDMS fabrication
+- Cell migration experiment
+
+---
+
+# Demo
+
+### AI Pose Recognition
+
+![AIポーズ](images/AIポーズ判定アプリ.png)
+
+---
+
 
 ## 1. AIポーズ認識アプリ（iOS / Swift）
 
