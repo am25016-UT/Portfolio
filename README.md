@@ -201,7 +201,7 @@ Gesture Recognition（手のジェスチャー）
 
 ### デモ
 - 動画URL：
-- ブラッシュアップ中のピッチ資料URL：
+- ブラッシュアップ中のピッチ資料URL：[PDFを見る](Pitch.pdf)
 
 ---
 
