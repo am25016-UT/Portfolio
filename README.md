@@ -1,4 +1,5 @@
-# 上原 拓也 (Uehara Takuya) – Human Interface / Prototyping
+# 上原 拓也 (Uehara Takuya) 
+ – Human Interface / Prototyping
 
 工学院大学大学院 機械工学専攻 修士1年  
 
